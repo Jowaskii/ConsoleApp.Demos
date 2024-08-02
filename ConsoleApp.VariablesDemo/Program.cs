@@ -24,5 +24,5 @@ Console.WriteLine("My retirement age is: " + retirementAge);
 
 bool isRetired = false;
 
-Console.WriteLine("Am i retired? " + isRetired);
+Console.WriteLine("Am I retired? " + isRetired);
 
