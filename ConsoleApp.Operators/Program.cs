@@ -14,10 +14,10 @@ int num2 = Convert.ToInt32(numEntered);
 //add numbers
 int sum = num1 + num2;
 
-//multipy numbers
+//multiply numbers
 int product = num1 * num2;
 
-//devide numbers
+//divide numbers
 int quotient = num1 / num2;
 
 //subtract numbers
